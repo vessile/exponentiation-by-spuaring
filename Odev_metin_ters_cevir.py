@@ -7,7 +7,6 @@ def ters_cevir(metin):
     print("İşlenen karakter:", sayac)
     return sonuc
 
-
 def ters_cevir_index(metin):
     sayac = 0
     sonuc = ""
